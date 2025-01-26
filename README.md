@@ -1,4 +1,3 @@
-
 🧩 Decision Tree and Random Forest Simulator
 This is an interactive Decision Tree and Random Forest simulation tool where you can visualize model behavior in real-time using any dataset. This tool allows you to fine-tune hyperparameters, select features, and observe how these machine learning algorithms create decision boundaries.
 
@@ -14,8 +13,6 @@ Demo
 📥 Sample Dataset
 A sample wine quality dataset has been provided for testing. The dataset is sourced from Kaggle.
 Alternatively, you can use any CSV dataset of your choice.
-
-
 
 📈 Hyperparameters Explained
 Split Criteria:
@@ -41,7 +38,17 @@ Frontend: Streamlit
 Backend: Python
 Libraries: Scikit-learn, Pandas, Matplotlib
 
- Use Cases
+## Deployment Instructions
+1. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the app using Streamlit:
+   ```
+   streamlit run app.py
+   ```
+
+Use Cases
 Understanding Decision Trees and Random Forest models.
 Learning how hyperparameters affect machine learning models.
 Testing performance of different datasets in a visualized environment.
