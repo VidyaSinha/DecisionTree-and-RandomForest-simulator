@@ -9,6 +9,7 @@ Interactive and User-Friendly: Powered by Streamlit for a smooth user experience
 
 Demo
 [https://youtu.be/x9HUv53ctfc]
+try here : https://dtrfsimuator.streamlit.app/
 
 📥 Sample Dataset
 A sample wine quality dataset has been provided for testing. The dataset is sourced from Kaggle.
